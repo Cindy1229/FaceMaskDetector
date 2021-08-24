@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AllImages</folder>
+	<filename>7aa0d6b4-0412-11ec-9ac0-acde48001122.jpg</filename>
+	<path>/Users/cindy/Desktop/Projects/FaceMask/RealTimeObjectDetection/Tensorflow/workspace/images/AllImages/7aa0d6b4-0412-11ec-9ac0-acde48001122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>763</xmin>
+			<ymin>347</ymin>
+			<xmax>946</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>
